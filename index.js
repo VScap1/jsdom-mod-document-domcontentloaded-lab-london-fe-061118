@@ -1,2 +1,2 @@
-document.getElementByClassName("error");
+document.getElementByClassName("error")innerHTML;
 
