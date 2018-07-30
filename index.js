@@ -1,2 +1,2 @@
-document.getElementByClassName("error") .innerHTML = "301";
+document.queryselector("div#HiddenDiv") .innerHTML = "301";
 
