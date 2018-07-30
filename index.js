@@ -1,2 +1,2 @@
-document.querySelector("div#hidden-div").innerText=('301');
+document.querySelector("#hidden-div").innerText=('301');
 
